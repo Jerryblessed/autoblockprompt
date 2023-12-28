@@ -1,5 +1,6 @@
 # [Auto blockprompt  ]()
 # [Link to site ](https://ope.pythonanywhere.com)
+# [Arcjitectural diagram ](https://ope.pythonanywhere.com)
 
 Simple blog app built with Flask.
 <br/>
