@@ -1,6 +1,6 @@
 # [Auto blockprompt  ]()
 # [Link to site ](https://ope.pythonanywhere.com)
-# [Arcjitectural diagram ](https://ope.pythonanywhere.com)
+# [Architectural diagram ](https://github.com/Jerryblessed/autoblockprompt/blob/main/autoblock_prompt.png)
 
 Simple blog app built with Flask.
 <br/>
